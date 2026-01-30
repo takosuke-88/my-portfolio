@@ -1,17 +1,13 @@
-import { useState } from "react";
 import {
-  ExternalLink,
   Mail,
   Code,
   BarChart3,
   Layout,
   Cloud,
-  Sun,
   Zap,
   ChevronRight,
   Cpu,
   Sparkles,
-  Send,
 } from "lucide-react";
 
 function App() {
